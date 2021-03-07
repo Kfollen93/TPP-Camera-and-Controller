@@ -1,6 +1,6 @@
 # TPP-Camera-and-Controller
 
-A Third-Person-Perspective camera and character controller based upon vanilla World of Warcraft's movement and camera style(s).
+A Third-Person-Perspective camera and character controller based upon vanilla World of Warcraft's movement and camera style(s).  
 Made from a tutorial series by Soupertrooper on YouTube.
 
 ## Debug Lines Indicating When the Camera is Being Blocked
